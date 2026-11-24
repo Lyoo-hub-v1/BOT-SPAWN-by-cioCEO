@@ -5,7 +5,7 @@ import requests
 app = Flask(__name__)
 
 # === ISI DI SINI, CIOO! ===
-DISCORD_WEBHOOK = "ISI_WEBHOOK_DISCORD_KAMU_DI_SINI"
+DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1574043020423073862/U8w1JPDc3RzQQRzc0vGS6GVtVc7P0xrZiHwnhAWXmr7b3ITiEQx469PHifVe0Eoi8Y0a"
 # Contoh: https://discord.com/api/webhooks/123456/abcdef
 
 GAME_LINK = "https://www.roblox.com/games/107778070777162/Steal-an-Egg"
